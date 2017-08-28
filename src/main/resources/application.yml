@@ -1,0 +1,12 @@
+info:
+  app:
+    name: AronimCloudMenuService
+    description: Aronim Cloud Menu Service
+    version: 1.0-SNAPSHOT
+
+spring:
+  application:
+    name: aronim-cloud-menu
+
+server:
+  port: 0
